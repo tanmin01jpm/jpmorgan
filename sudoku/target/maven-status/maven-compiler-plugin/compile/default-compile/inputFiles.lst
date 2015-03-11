@@ -1,0 +1,13 @@
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/SquareArea.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/Area.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/dataaccess/DataInputImpl.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/clientview/ValidationReport.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/dataaccess/DataInput.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/RectangularArea.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/SudokuBoard.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/service/ValidationServiceImpl.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/ValidationType.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/service/BoardService.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/service/BoardServiceImpl.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/datamodel/AbstractArea.java
+/Users/mtan/development/sudoku/src/main/java/uk/co/mint/sudoku/service/ValidationService.java

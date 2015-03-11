@@ -1,0 +1,13 @@
+uk/co/mint/sudoku/datamodel/ValidationType.class
+uk/co/mint/sudoku/service/BoardServiceImpl.class
+uk/co/mint/sudoku/datamodel/Area.class
+uk/co/mint/sudoku/service/BoardService.class
+uk/co/mint/sudoku/datamodel/RectangularArea.class
+uk/co/mint/sudoku/datamodel/SudokuBoard.class
+uk/co/mint/sudoku/service/ValidationService.class
+uk/co/mint/sudoku/clientview/ValidationReport.class
+uk/co/mint/sudoku/dataaccess/DataInput.class
+uk/co/mint/sudoku/datamodel/AbstractArea.class
+uk/co/mint/sudoku/datamodel/SquareArea.class
+uk/co/mint/sudoku/dataaccess/DataInputImpl.class
+uk/co/mint/sudoku/service/ValidationServiceImpl.class

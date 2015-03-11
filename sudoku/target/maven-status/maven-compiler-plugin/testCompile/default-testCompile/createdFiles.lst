@@ -1,0 +1,4 @@
+uk/co/mint/sudoku/dataaccess/InputDataAccessImplIntegrationTest.class
+uk/co/mint/sudoku/clientview/ValidationReportTest.class
+uk/co/mint/sudoku/service/BoardServiceImplIntegerationTest.class
+uk/co/mint/sudoku/service/ValidationServiceImplTest.class
